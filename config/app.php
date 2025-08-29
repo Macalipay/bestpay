@@ -226,7 +226,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-        Webkul\Marketplace\Providers\MarketplaceServiceProvider::class,
+        // Webkul\Marketplace\Providers\MarketplaceServiceProvider::class,
         /*
          * Package Service Providers.
          */
